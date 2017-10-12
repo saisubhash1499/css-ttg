@@ -1,0 +1,53 @@
+h1 {
+    letter-spacing: 2px;
+}
+p.small {
+    line-height: 70%;
+}
+
+p.big {
+    line-height: 200%;
+}
+div {
+    text-align: center;
+	font-size:20px;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right;
+}
+pre {
+    text-indent: 50px;
+}
+p.uppercase {
+    text-transform: uppercase;
+}
+
+p.lowercase {
+    text-transform: lowercase;
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}
+img.top {
+    vertical-align: text-top;
+}
+
+img.bottom {
+    vertical-align: text-bottom;
+}
+.sai { 
+    word-spacing: 30px;
+}
+div.ex1 {
+    direction: rtl;
+}
+.sai1 {
+    border: 1px solid red;
+    outline: green dotted thick;
+}
